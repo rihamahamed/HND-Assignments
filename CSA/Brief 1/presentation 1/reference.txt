@@ -1,0 +1,36 @@
+whats computer
+https://www.computerhope.com/jargon/c/computer.htm
+computer system
+https://peda.net/kenya/ass/subjects2/computer-studies/form-1/the-computer-system
+Hardware
+https://www.computerhope.com/jargon/h/hardware.htm
+Software
+https://www.computerhope.com/jargon/s/software.htm
+live ware
+https://www.computerhope.com/jargon/l/liveware.htm
+Firm Ware
+https://www.computerhope.com/jargon/f/firmware.htm
+Computer subsystem
+https://www.quora.com/What-would-be-considered-a-computer-subsystem
+memory
+https://www.computerhope.com/jargon/m/memory.htm
+cpu
+https://www.digitaltrends.com/computing/what-is-a-cpu/
+storage
+https://www.computerhope.com/jargon/m/memory.htm
+rom
+https://translate.google.com/#view=home&op=translate&sl=en&tl=ta&text=This%20is%20a%20type%20of%20storage%20medium%20that%20permanently%20stores%20data%20on%20personal%20computers%20(PCs)%20and%20other%20electronic%20devices.%20It%20contains%20the%20programming%20needed%20to%20start%20a%20PC%2C%20which%20is%20essential%20for%20boot-up%3B%20it%20performs%20major%20input%2Foutput%20tasks%20and%20holds%20programs%20or%20software%20instructions.
+ram
+https://www.computerhope.com/jargon/r/ram.htm
+secondary strorage
+https://www.computerhope.com/jargon/s/secostor.htm
+hard drive
+https://www.computerhope.com/jargon/h/harddriv.htm
+input device
+https://www.computerhope.com/jargon/i/inputdev.htm
+output device
+https://www.computerhope.com/jargon/o/outputde.htm
+purpose of the CPU
+https://www.computerhope.com/jargon/c/cpu.htm
+CPU dependency and performance
+https://www.quora.com/What-does-CPU-performance-depend-on

@@ -1,0 +1,4 @@
+Struture of OS
+https://www.geeksforgeeks.org/different-approaches-or-structures-of-operating-systems/
+function
+https://www.geeksforgeeks.org/functions-of-operating-system/
